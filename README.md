@@ -1,2 +1,1 @@
-# Pokedex
-Creating a pokedex that shows information about the selected pokemon
+<h1 style = "text-align:center"> Pokédex </h1>
