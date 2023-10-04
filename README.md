@@ -4,6 +4,10 @@ name and gif of the requested Pokemon. To build the project, HTML5,
 CSS3 and JavaScript technologies were used, and git was also used to
 version the code.
 
+![Alt text](image.png)
+
+<../../../../Videos/2023-10-04 14-15-36.mkv>
+
 # Skills
 <p align ="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="60" height="60" alt="HTML5" /></a>
