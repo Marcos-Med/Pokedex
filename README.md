@@ -6,7 +6,7 @@ version the code.
 
 ![Alt text](image.png)
 
-<video src="V%C3%ADdeo%20sem%20t%C3%ADtulo%20%E2%80%90%20Feito%20com%20o%20Clipchamp.mp4" controls title="Pokédex"></video>
+<video src="video.mp4" controls title="Pokédex"></video>
 
 # Skills
 <p align ="left">
