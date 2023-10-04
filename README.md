@@ -6,11 +6,7 @@ version the code.
 
 ![Alt text](image.png)
 
-<video width = "320" height = "240" controls>
-    <source src = "video.mp4" type = "video/mp4">
-
-    Your browser doesn't support the video tag.
-</video>
+https://github.com/Marcos-Med/Pokedex/assets/126164154/c3922bc4-53f1-4e7a-a80a-6f0836905c5b
 
 # Skills
 <p align ="left">
